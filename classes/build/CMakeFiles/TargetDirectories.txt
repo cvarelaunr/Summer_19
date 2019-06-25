@@ -1,0 +1,4 @@
+/home/groot/practice/classes/build/CMakeFiles/rebuild_cache.dir
+/home/groot/practice/classes/build/CMakeFiles/edit_cache.dir
+/home/groot/practice/classes/build/CMakeFiles/Classes_SUCCESSFUL.dir
+/home/groot/practice/classes/build/CMakeFiles/Classes.dir
