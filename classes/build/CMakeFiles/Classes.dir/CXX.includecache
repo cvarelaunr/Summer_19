@@ -6,7 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/groot/practice/classes/src/main.cpp
+../include/Random.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/groot/Summer_19/classes/src/Random.cpp
+Random.h
+/home/groot/Summer_19/classes/src/Random.h
+
+/home/groot/Summer_19/classes/src/main.cpp
+Random.cpp
+/home/groot/Summer_19/classes/src/Random.cpp
 iostream
 -
 

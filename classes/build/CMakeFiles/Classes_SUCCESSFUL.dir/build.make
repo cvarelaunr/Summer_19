@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/groot/practice/classes
+CMAKE_SOURCE_DIR = /home/groot/Summer_19/classes
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/groot/practice/classes/build
+CMAKE_BINARY_DIR = /home/groot/Summer_19/classes/build
 
 # Utility rule file for Classes_SUCCESSFUL.
 
@@ -58,7 +58,7 @@ CMakeFiles/Classes_SUCCESSFUL: Classes
 	/usr/bin/cmake -E echo =====================
 	/usr/bin/cmake -E echo \ \ Compile\ complete!
 	/usr/bin/cmake -E echo =====================
-	/usr/bin/cmake -E echo /home/groot/practice/classes/build
+	/usr/bin/cmake -E echo /home/groot/Summer_19/classes/build
 
 Classes_SUCCESSFUL: CMakeFiles/Classes_SUCCESSFUL
 Classes_SUCCESSFUL: CMakeFiles/Classes_SUCCESSFUL.dir/build.make
@@ -75,6 +75,6 @@ CMakeFiles/Classes_SUCCESSFUL.dir/clean:
 .PHONY : CMakeFiles/Classes_SUCCESSFUL.dir/clean
 
 CMakeFiles/Classes_SUCCESSFUL.dir/depend:
-	cd /home/groot/practice/classes/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/groot/practice/classes /home/groot/practice/classes /home/groot/practice/classes/build /home/groot/practice/classes/build /home/groot/practice/classes/build/CMakeFiles/Classes_SUCCESSFUL.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/groot/Summer_19/classes/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/groot/Summer_19/classes /home/groot/Summer_19/classes /home/groot/Summer_19/classes/build /home/groot/Summer_19/classes/build /home/groot/Summer_19/classes/build/CMakeFiles/Classes_SUCCESSFUL.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Classes_SUCCESSFUL.dir/depend
 

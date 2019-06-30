@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/groot/practice/classes
+CMAKE_SOURCE_DIR = /home/groot/Summer_19/classes
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/groot/practice/classes/build
+CMAKE_BINARY_DIR = /home/groot/Summer_19/classes/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/groot/practice/classes/build/CMakeFiles /home/groot/practice/classes/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/groot/Summer_19/classes/build/CMakeFiles /home/groot/Summer_19/classes/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/groot/practice/classes/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/groot/Summer_19/classes/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

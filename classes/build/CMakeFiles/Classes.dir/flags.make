@@ -6,5 +6,5 @@ CXX_FLAGS =  -std=gnu++11
 
 CXX_DEFINES = -DUNIX
 
-CXX_INCLUDES = -I/home/groot/practice/classes/include 
+CXX_INCLUDES = -I/home/groot/Summer_19/classes/include 
 
