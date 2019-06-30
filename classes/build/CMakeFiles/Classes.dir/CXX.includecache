@@ -6,23 +6,11 @@
 
 #IncludeRegexTransform: 
 
-../include/Random.h
-iostream
+/home/groot/Summer_19/classes/src/main.cpp
+SDL2/SDL.h
 -
 stdio.h
 -
-stdlib.h
--
-time.h
--
-
-/home/groot/Summer_19/classes/src/Random.cpp
-Random.h
-/home/groot/Summer_19/classes/src/Random.h
-
-/home/groot/Summer_19/classes/src/main.cpp
-Random.cpp
-/home/groot/Summer_19/classes/src/Random.cpp
-iostream
+string
 -
 

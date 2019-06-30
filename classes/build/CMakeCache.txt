@@ -171,6 +171,9 @@ Classes_BINARY_DIR:STATIC=/home/groot/Summer_19/classes/build
 //Value Computed by CMake
 Classes_SOURCE_DIR:STATIC=/home/groot/Summer_19/classes
 
+//The directory containing a CMake configuration file for SDL2.
+SDL2_DIR:PATH=/usr/local/lib/cmake/SDL2
+
 
 ########################
 # INTERNAL cache entries
